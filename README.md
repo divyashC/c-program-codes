@@ -8,7 +8,7 @@
             
 # <p align='center'>C Program Codes </p>
 
-####_A collection of C program codes for beginners._
+*A collection of C program codes for beginners.*
 
 This repository is a collection of my program codes which I wrote while taking the CPL101 - Introduction to Programming module during my undergraduate course in B.E. Information Technology.
 
