@@ -63,9 +63,6 @@ _I hope this repository helps you in one way or the other. Please dont take my c
  <a href="https://codepen.io/divyashc" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="divyashC's CodePen.io Profile"  width="40" height="40"/>    
  </a>
-<!--  <a href="mailto:divyashchhetri@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email-3357C0?style=for-the-badge&logo=gmail&logoColor=white" alt="divyashC's email - divyashchhetri@gmail.com" />    
- </a> -->
 </p>
 
 <br/>
